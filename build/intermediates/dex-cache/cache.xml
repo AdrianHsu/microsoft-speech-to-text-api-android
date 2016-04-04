@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/AdrianHsu/Google_Drive/NTUEE_104_2/Microsoft_Cognitive_Service/Speech/SpeechToText/Android/samples/SpeechRecoExample/build/intermediates/exploded-aar/com.microsoft.projectoxford/speechrecognition/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1284563b8f6316fa5ba3fe909b84fcc18ae765d">
+        <dex dex="/Users/AdrianHsu/Google_Drive/NTUEE_104_2/Microsoft_Cognitive_Service/Speech/SpeechToText/Android/samples/SpeechRecoExample/build/intermediates/pre-dexed/arm/debug/classes-bd5b8c45757115587b9366b52efff657eed49141.jar" />
+    </item>
+    <item
+        jar="/Users/AdrianHsu/Google_Drive/NTUEE_104_2/Microsoft_Cognitive_Service/Speech/SpeechToText/Android/samples/SpeechRecoExample/build/intermediates/exploded-aar/com.microsoft.projectoxford/speechrecognition/0.6.0/jars/libs/SpeechSDK.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ee70bc3c3e2f7d034fbb9789bfb6fe51dae7ca97">
+        <dex dex="/Users/AdrianHsu/Google_Drive/NTUEE_104_2/Microsoft_Cognitive_Service/Speech/SpeechToText/Android/samples/SpeechRecoExample/build/intermediates/pre-dexed/arm/debug/SpeechSDK-01af709abf1988a1c03df67731669b421bd218b6.jar" />
+    </item>
+
+</items>
